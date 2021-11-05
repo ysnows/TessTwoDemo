@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private ViewPager viewPager;
     private MyPagerAdapter adapter;
     private List<ImageView> list;
-    private int[] ids = new int[]{R.drawable.chaxun, R.drawable.fan, R.drawable.fengying,
+    private int[] ids = new int[]{R.drawable.fans, R.drawable.fan, R.drawable.fengying,
             R.drawable.meishi, R.drawable.mj, R.drawable.mjn, R.drawable.quanbu, R.drawable.tupian, R.drawable.yingyu, R.drawable.zheng,
             R.drawable.xingming, R.drawable.minzu,R.drawable.zengzhi,R.drawable.wode};
 
